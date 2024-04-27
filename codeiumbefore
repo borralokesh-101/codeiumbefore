@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Electronic Store</title>
+    <!-- Add your CSS styles here -->
+    <style>
+        /* CSS styles go here */
+    </style>
+</head>
+<body>
+    <header>
+        <!-- Navigation bar with links to different sections -->
+    </header>
+    
+    <main>
+        <!-- Product catalog section -->
+        <section id="product-catalog">
+            <h2>Product Catalog</h2>
+            <!-- Display product listings here -->
+        </section>
+
+        <!-- Search and filters section -->
+        <section id="search-filters">
+            <h2>Search Catalog</h2>
+            <!-- Search bar and filters go here -->
+        </section>
+
+        <!-- Reviews and ratings section -->
+        <section id="reviews-ratings">
+            <h2>Reviews and Ratings</h2>
+            <!-- Display reviews and ratings here -->
+        </section>
+
+        <!-- Subscription and login section -->
+        <section id="subscription-login">
+            <h2>Subscription and Login</h2>
+            <!-- Subscription and login forms go here -->
+        </section>
+
+        <!-- One-click ordering section -->
+        <section id="one-click-ordering">
+            <h2>One-Click Ordering</h2>
+            <!-- Implement one-click ordering functionality here -->
+        </section>
+
+        <!-- Suggestions based on browsing history and purchase -->
+        <section id="suggestions">
+            <h2>Suggested Products</h2>
+            <!-- Display suggested products here -->
+        </section>
+
+        <!-- Gaming zone section -->
+        <section id="gaming-zone">
+            <h2>Gaming Zone</h2>
+            <!-- Integrate gaming features here -->
+        </section>
+
+        <!-- Offers for frequent buyers section -->
+        <section id="offers">
+            <h2>Offers for Frequent Buyers</h2>
+            <!-- Display special offers for frequent buyers -->
+        </section>
+    </main>
+
+    <footer>
+        <!-- Footer section with contact information and social media links -->
+    </footer>
+    
+    <!-- Add your JavaScript code here -->
+    <script>
+        // JavaScript code goes here
+    </script>
+</body>
+</html>
